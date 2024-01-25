@@ -26,7 +26,7 @@ export default function RootLayout({
         </head>
         <body className={inter.className}>
           <MantineProvider>
-            <Button>I'm button</Button>
+            <Button>I am button</Button>
             {children}
           </MantineProvider>
         </body>

@@ -7,7 +7,7 @@ type Price = {
   amount: number;
   currency: Currency;
 };
-type QuantityUnit = "piece" | "kg" | "l";
+type QuantityUnit = "piece" | "portion" | "kg" | "l" | "m";
 type Quantity = {
   amount: number;
   unit: QuantityUnit;
@@ -17,11 +17,13 @@ type ItemId<T extends Store> = Flavoured<string, `ItemId<${T}>`>;
 // type StoreSpecificDataByStore = {
 //   billa: {};
 // };
-type Item<T extends Store> = {
+type Item<T extends Store = Store> = {
   store: T;
   id: ItemId<T>;
   name: string;
   description?: string;
+  url: string;
+  imageUrl: string;
   price: Price;
   quantity: Quantity;
   //   storeSpecificData: StoreSpecificDataByStore[T];
@@ -29,6 +31,5 @@ type Item<T extends Store> = {
 
 type StoreIntegration<T extends Store> = {
   store: T;
-  getUrlFromId: (item: Item<T>) => string;
   getAllItems: () => Promise<Item<T>[]>;
 };

@@ -2,15 +2,23 @@ import * as z from "valibot";
 
 export const billaStoreIntegration: StoreIntegration<"billa"> = {
   store: "billa",
-  getUrlFromId: (item) => `https://shop.billa.cz/produkt/${item.id}`,
   getAllItems: async () => {
-    const billaItems = await listAllProducts({ pageSize: 100, page: 0 });
-    return billaItems.map(billaItemToItem);
+    const items = [];
+    let page = 0;
+    while (true) {
+      const billaItems = await listAllProducts({ pageSize: 500, page });
+      items.push(billaItems.map(billaItemToItem));
+      page += 1;
+      if (billaItems.length === 0) {
+        return items.flat();
+      }
+    }
   },
 };
 
 const billaItemSchema = z.object({
   slug: z.string(),
+  productId: z.string(),
   name: z.string(),
   descriptionShort: z.optional(z.string()),
   images: z.array(z.string()),
@@ -26,6 +34,9 @@ const billaItemSchema = z.object({
     z.literal("st"),
     z.literal("ks"),
     z.literal("lt"),
+    z.literal("ml"),
+    z.literal("mt"),
+    z.literal("wg"),
   ]),
 });
 
@@ -40,6 +51,9 @@ const volumeLabelKeyToMultiplierWithUnit: {
   st: [1, "piece"],
   ks: [1, "piece"],
   lt: [1, "l"],
+  ml: [0.001, "l"],
+  mt: [1, "m"],
+  wg: [1, "portion"],
 };
 
 const billaItemToItem = (
@@ -47,9 +61,11 @@ const billaItemToItem = (
 ): Item<"billa"> => {
   const genericPart = {
     store: "billa",
-    id: billaItem.slug,
+    id: billaItem.productId,
     name: billaItem.name,
     description: billaItem.descriptionShort,
+    imageUrl: billaItem.images[0],
+    url: `https://shop.billa.cz/produkt/${billaItem.slug}`,
   } as const;
 
   const [multiplier, unit] =

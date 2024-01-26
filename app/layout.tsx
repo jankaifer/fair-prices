@@ -25,10 +25,7 @@ export default function RootLayout({
           <ColorSchemeScript />
         </head>
         <body className={inter.className}>
-          <MantineProvider>
-            <Button>I am button</Button>
-            {children}
-          </MantineProvider>
+          <MantineProvider>{children}</MantineProvider>
         </body>
       </html>
     </ClerkProvider>

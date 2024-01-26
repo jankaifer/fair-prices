@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "get": "bun get-data.ts"
   },
   "dependencies": {
     "@clerk/nextjs": "^4.29.5",
@@ -27,6 +28,7 @@
     "@tiptap/extension-link": "^2.1.16",
     "@tiptap/react": "^2.1.16",
     "@tiptap/starter-kit": "^2.1.16",
+    "@types/bun": "^1.0.4",
     "@vercel/postgres": "^0.7.2",
     "dayjs": "^1.11.10",
     "drizzle-orm": "^0.29.3",
@@ -36,7 +38,8 @@
     "postcss-simple-vars": "^7.0.1",
     "react": "^18",
     "react-dom": "^18",
-    "recharts": "2"
+    "recharts": "2",
+    "valibot": "^0.27.0"
   },
   "devDependencies": {
     "typescript": "^5",

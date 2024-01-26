@@ -1,0 +1,801 @@
+[
+  {
+    "store": "billa",
+    "id": "uvitaci-dopis-eshop-82352289",
+    "name": "Uvítací dopis eshop",
+    "description": "Uvítací dopis eshop",
+    "price": { "amount": 10, "currency": "CZK" },
+    "quantity": { "amount": 1, "unit": "piece" }
+  },
+  {
+    "store": "billa",
+    "id": "sbiraci-karta-dolce-vita-loved-in-italy-82353178",
+    "name": "Sbírací karta DOLCE VITA Loved in Italy®",
+    "description": "Sbírací karta DOLCE VITA Loved in Italy®",
+    "price": { "amount": 10, "currency": "CZK" },
+    "quantity": { "amount": 1, "unit": "piece" }
+  },
+  {
+    "store": "billa",
+    "id": "nalepky-5ks-dolce-vita-loved-in-italy-82353180",
+    "name": "Nálepky 5ks - DOLCE VITA Loved in Italy®",
+    "description": "Nálepky 5ks - DOLCE VITA Loved in Italy®",
+    "price": { "amount": 10, "currency": "CZK" },
+    "quantity": { "amount": 1, "unit": "piece" }
+  },
+  {
+    "store": "billa",
+    "id": "rohlik-82316363",
+    "name": "Rohlík",
+    "description": "Rohlík",
+    "price": { "amount": 280, "currency": "CZK" },
+    "quantity": { "amount": 0.043000000000000003, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "vanilinovy-cukr-20-g-82311701",
+    "name": "Vanilinový cukr 20 g",
+    "description": "Vanilinový cukr 20 g",
+    "price": { "amount": 282, "currency": "CZK" },
+    "quantity": { "amount": 0.02, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "houska-razenka-82316362",
+    "name": "Houska raženka",
+    "description": "Houska raženka",
+    "price": { "amount": 312, "currency": "CZK" },
+    "quantity": { "amount": 0.043000000000000003, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "kecup-20-g-82234710",
+    "name": "Kečup 20 g",
+    "description": "Kečup 20 g",
+    "price": { "amount": 380, "currency": "CZK" },
+    "quantity": { "amount": 0.02, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "kaiserka-natural-82316919",
+    "name": "Kaiserka natural",
+    "description": "Kaiserka natural",
+    "price": { "amount": 470, "currency": "CZK" },
+    "quantity": { "amount": 0.056, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "bageta-mala-svetla-82316938",
+    "name": "Bageta malá světlá",
+    "description": "Bageta malá světlá",
+    "price": { "amount": 477, "currency": "CZK" },
+    "quantity": { "amount": 0.05, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "chocoland-figurka-cert-z-mlecne-cokolady-60g-82271840",
+    "name": "Chocoland Figurka čert z mléčné čokolády 60g",
+    "description": "Chocoland Figurka čert z mléčné čokolády 60g",
+    "price": { "amount": 490, "currency": "CZK" },
+    "quantity": { "amount": 0.06, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "adventni-kalendar-trpaslici-50-g-82302297",
+    "name": "Adventní kalendář Trpaslíci 50 g",
+    "description": "Adventní kalendář Trpaslíci 50 g",
+    "price": { "amount": 490, "currency": "CZK" },
+    "quantity": { "amount": 0.05, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "mikulas-mlecny-40g-82305234",
+    "name": "Mikuláš mléčný 40g",
+    "description": "Mikuláš mléčný 40g",
+    "price": { "amount": 490, "currency": "CZK" },
+    "quantity": { "amount": 0.04, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "mikulas-na-sanich-mlecny-85g-82305235",
+    "name": "Mikuláš na saních mléčný 85g",
+    "description": "Mikuláš na saních mléčný 85g",
+    "price": { "amount": 490, "currency": "CZK" },
+    "quantity": { "amount": 0.085, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "mikulas-mlecny-60g-82305236",
+    "name": "Mikuláš mléčný 60g",
+    "description": "Mikuláš mléčný 60g",
+    "price": { "amount": 490, "currency": "CZK" },
+    "quantity": { "amount": 0.06, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "orion-lentilky-vanocni-ozdobicky-185g-82328381",
+    "name": "ORION LENTILKY Vánoční ozdobičky 18,5g",
+    "description": "ORION LENTILKY Vánoční ozdobičky 18,5g",
+    "price": { "amount": 490, "currency": "CZK" },
+    "quantity": { "amount": 0.0185, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "chocoland-santa-claus-z-mlecne-cokolady-82333608",
+    "name": "Chocoland Santa Claus z mléčné čokolády",
+    "description": "Chocoland Santa Claus z mléčné čokolády",
+    "price": { "amount": 490, "currency": "CZK" },
+    "quantity": { "amount": 0.06, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "cerealni-kaiserka-82317316",
+    "name": "Cereální kaiserka",
+    "description": "Cereální kaiserka",
+    "price": { "amount": 575, "currency": "CZK" },
+    "quantity": { "amount": 0.056, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "clever-sojovy-suk-50g-82286404",
+    "name": "clever Sójový suk 50g",
+    "description": "clever Sójový suk 50g",
+    "price": { "amount": 672, "currency": "CZK" },
+    "quantity": { "amount": 0.05, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "turisticky-rohlik-82315094",
+    "name": "Turistický rohlík",
+    "description": "Turistický rohlík",
+    "price": { "amount": 672, "currency": "CZK" },
+    "quantity": { "amount": 0.06, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "pernik-kaprik-82349396",
+    "name": "Perník Kapřík",
+    "description": "Perník Kapřík",
+    "price": { "amount": 690, "currency": "CZK" },
+    "quantity": { "amount": 0.09, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "dr-oetker-smetafix-ztuzovac-slehacky-v-prasku-10g-82213069",
+    "name": "Dr. Oetker Smeta-fix ztužovač šlehačky v prášku 10g",
+    "description": "Dr. Oetker Smeta-fix ztužovač šlehačky v prášku 10g",
+    "price": { "amount": 769, "currency": "CZK" },
+    "quantity": { "amount": 0.01, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "uniferm-pekarske-drozdi-42g-82223648",
+    "name": "Uniferm Pekařské droždí 42g",
+    "description": "Uniferm Pekařské droždí 42g",
+    "price": { "amount": 769, "currency": "CZK" },
+    "quantity": { "amount": 0.042, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "clever-jogurt-bily-s-bifidokulturou-150g-82297798",
+    "name": "clever Jogurt bílý s bifidokulturou 150g",
+    "description": "clever Jogurt bílý s bifidokulturou 150g",
+    "price": { "amount": 769, "currency": "CZK" },
+    "quantity": { "amount": 0.15, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "pernik-se-svestkovou-naplni-60g-82316293",
+    "name": "Perník se švestkovou náplní 60g",
+    "description": "Perník se švestkovou náplní 60g",
+    "price": { "amount": 769, "currency": "CZK" },
+    "quantity": { "amount": 0.06, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "dr-oetker-jedla-soda-15g-82225237",
+    "name": "Dr. Oetker Jedlá soda 15g",
+    "description": "Dr. Oetker Jedlá soda 15g",
+    "price": { "amount": 790, "currency": "CZK" },
+    "quantity": { "amount": 0.015, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "dr-oetker-skoricovy-cukr-20g-82225238",
+    "name": "Dr. Oetker Skořicový cukr 20g",
+    "description": "Dr. Oetker Skořicový cukr 20g",
+    "price": { "amount": 828, "currency": "CZK" },
+    "quantity": { "amount": 0.02, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "puding-s-prichuti-vanilka-amylon-37-g-82288272",
+    "name": "Puding s příchutí vanilka Amylon 37 g",
+    "description": "Puding s příchutí vanilka Amylon 37 g",
+    "price": { "amount": 828, "currency": "CZK" },
+    "quantity": { "amount": 0.037, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "clever-oplatky-liskooriskove-40g-82335797",
+    "name": "clever Oplatky lískooříškové 40g",
+    "description": "clever Oplatky lískooříškové 40g",
+    "price": { "amount": 828, "currency": "CZK" },
+    "quantity": { "amount": 0.04, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "billa-lubovnianka-prirodni-mineralni-voda-prirozene-sycena-jemne-perliva-15l-82322452",
+    "name": "BILLA Ľubovnianka přírodní minerální voda přirozeně sycená jemně perlivá 1,5l",
+    "description": "BILLA Ľubovnianka přírodní minerální voda přirozeně sycená jemně perlivá 1,5l",
+    "price": { "amount": 830, "currency": "CZK" },
+    "quantity": { "amount": 1.5, "unit": "l" }
+  },
+  {
+    "store": "billa",
+    "id": "billa-lubovnianka-prirodni-mineralni-voda-prirozene-sycena-perliva-15l-82322453",
+    "name": "BILLA Ľubovnianka přírodní minerální voda přirozeně sycená perlivá 1,5l",
+    "description": "BILLA Ľubovnianka přírodní minerální voda přirozeně sycená perlivá 1,5l",
+    "price": { "amount": 830, "currency": "CZK" },
+    "quantity": { "amount": 1.5, "unit": "l" }
+  },
+  {
+    "store": "billa",
+    "id": "billa-lubovnianka-magneziova-prirodni-mineralni-voda-dekarbonovana-15l-82338794",
+    "name": "BILLA Ľubovnianka magnéziová přírodní minerální voda dekarbonovaná 1,5l",
+    "description": "BILLA Ľubovnianka magnéziová přírodní minerální voda dekarbonovaná 1,5l",
+    "price": { "amount": 830, "currency": "CZK" },
+    "quantity": { "amount": 1.5, "unit": "l" }
+  },
+  {
+    "store": "billa",
+    "id": "nat-puding-malinovy-37-g-82209989",
+    "name": "NAT Puding malinový 37 g",
+    "description": "NAT Puding malinový 37 g",
+    "price": { "amount": 840, "currency": "CZK" },
+    "quantity": { "amount": 0.037, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "olma-klasik-original-bily-jogurt-150g-82234812",
+    "name": "Olma Klasik originál bílý jogurt 150g",
+    "description": "Olma Klasik originál bílý jogurt 150g",
+    "price": { "amount": 860, "currency": "CZK" },
+    "quantity": { "amount": 0.15, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "dr-oetker-pomucka-ke-konzervovani-ovoce-a-zeleniny-5g-82235651",
+    "name": "Dr. Oetker Pomůcka ke konzervování ovoce a zeleniny 5g",
+    "description": "Dr. Oetker Pomůcka ke konzervování ovoce a zeleniny 5g",
+    "price": { "amount": 867, "currency": "CZK" },
+    "quantity": { "amount": 0.005, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "vimi-nudlova-polevka-veprova-50-g-82260347",
+    "name": "VIMI NUDLOVA POLEVKA VEPROVA 50 G",
+    "price": { "amount": 867, "currency": "CZK" },
+    "quantity": { "amount": 0.05, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "deko-100g-82283608",
+    "name": "Deko 100g",
+    "description": "Deko 100g",
+    "price": { "amount": 867, "currency": "CZK" },
+    "quantity": { "amount": 0.1, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "deko-steril-100g-82291155",
+    "name": "DEKO STERIL 100g",
+    "description": "DEKO STERIL 100g",
+    "price": { "amount": 867, "currency": "CZK" },
+    "quantity": { "amount": 0.1, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "fit-bagetka-82338787",
+    "name": "Fit bagetka ",
+    "description": "Fit bagetka ",
+    "price": { "amount": 890, "currency": "CZK" },
+    "quantity": { "amount": 0.075, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "jchorn-paprika-sladka-20g-82296740",
+    "name": "J.C.Horn Paprika sladká 20g",
+    "description": "J.C.Horn Paprika sladká 20g",
+    "price": { "amount": 925, "currency": "CZK" },
+    "quantity": { "amount": 0.02, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "cola-0-cukru-2l-82343530",
+    "name": "Cola 0% cukru 2l",
+    "description": "Cola 0% cukru 2l",
+    "price": { "amount": 936, "currency": "CZK" },
+    "quantity": { "amount": 2, "unit": "l" }
+  },
+  {
+    "store": "billa",
+    "id": "pomeranc-0-cukru-2l-82343531",
+    "name": "Pomeranč 0% cukru 2l",
+    "description": "Pomeranč 0% cukru 2l",
+    "price": { "amount": 936, "currency": "CZK" },
+    "quantity": { "amount": 2, "unit": "l" }
+  },
+  {
+    "store": "billa",
+    "id": "citron-0-cukru-2l-82343532",
+    "name": "Citron 0% cukru 2l",
+    "description": "Citron 0% cukru 2l",
+    "price": { "amount": 936, "currency": "CZK" },
+    "quantity": { "amount": 2, "unit": "l" }
+  },
+  {
+    "store": "billa",
+    "id": "dr-oetker-naturamyl-puding-prichut-vanilka-37g-82209988",
+    "name": "Dr. Oetker Naturamyl Puding příchuť vanilka 37g",
+    "description": "Dr. Oetker Naturamyl Puding příchuť vanilka 37g",
+    "price": { "amount": 964, "currency": "CZK" },
+    "quantity": { "amount": 0.037, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "dr-oetker-naturamyl-puding-prichut-jahoda-37g-82209990",
+    "name": "Dr. Oetker Naturamyl Puding příchuť jahoda 37g",
+    "description": "Dr. Oetker Naturamyl Puding příchuť jahoda 37g",
+    "price": { "amount": 964, "currency": "CZK" },
+    "quantity": { "amount": 0.037, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "dr-oetker-naturamyl-puding-s-prichuti-bananu-37g-82209992",
+    "name": "Dr. Oetker Naturamyl Puding s příchutí banánu 37g",
+    "description": "Dr. Oetker Naturamyl Puding s příchutí banánu 37g",
+    "price": { "amount": 964, "currency": "CZK" },
+    "quantity": { "amount": 0.037, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "dr-oetker-naturamyl-puding-prichut-cokolada-40g-82209993",
+    "name": "Dr. Oetker Naturamyl Puding příchuť čokoláda 40g",
+    "description": "Dr. Oetker Naturamyl Puding příchuť čokoláda 40g",
+    "price": { "amount": 964, "currency": "CZK" },
+    "quantity": { "amount": 0.04, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "vitana-cukr-skoricovy-20g-82217760",
+    "name": "Vitana Cukr skořicový 20g",
+    "description": "Vitana Cukr skořicový 20g",
+    "price": { "amount": 964, "currency": "CZK" },
+    "quantity": { "amount": 0.02, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "horcice-plnotucna-200g-82234780",
+    "name": "Hořčice plnotučná 200g",
+    "description": "Hořčice plnotučná 200g",
+    "price": { "amount": 964, "currency": "CZK" },
+    "quantity": { "amount": 0.2, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "razenka-cerealni-svetla-82234959",
+    "name": "Raženka cereální světlá",
+    "description": "Raženka cereální světlá",
+    "price": { "amount": 964, "currency": "CZK" },
+    "quantity": { "amount": 0.07, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "razenka-cerealni-tmava-82234960",
+    "name": "Raženka cereální tmavá",
+    "description": "Raženka cereální tmavá",
+    "price": { "amount": 964, "currency": "CZK" },
+    "quantity": { "amount": 0.07, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "limetka-82244003",
+    "name": "Limetka",
+    "description": "Limetka",
+    "price": { "amount": 964, "currency": "CZK" },
+    "quantity": { "amount": 1, "unit": "piece" }
+  },
+  {
+    "store": "billa",
+    "id": "dr-oetker-vanilkovy-cukr-8g-82252338",
+    "name": "Dr. Oetker Vanilkový cukr 8g",
+    "description": "Dr. Oetker Vanilkový cukr 8g",
+    "price": { "amount": 964, "currency": "CZK" },
+    "quantity": { "amount": 0.008, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "sedita-tatranky-oplatky-s-liskoorechovou-kremovou-naplni-v-mlecnokakaove-poleve-30g-82284544",
+    "name": "Sedita Tatranky Oplatky s lískoořechovou krémovou náplní v mléčno-kakaové polevě 30g",
+    "description": "Sedita Tatranky Oplatky s lískoořechovou krémovou náplní v mléčno-kakaové polevě 30g",
+    "price": { "amount": 964, "currency": "CZK" },
+    "quantity": { "amount": 0.03, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "sedita-tatranky-oplatky-s-mlecnou-kremovou-naplni-v-mlecnokakaove-poleve-30g-82284545",
+    "name": "Sedita Tatranky Oplatky s mléčnou krémovou náplní v mléčno-kakaové polevě 30g",
+    "description": "Sedita Tatranky Oplatky s mléčnou krémovou náplní v mléčno-kakaové polevě 30g",
+    "price": { "amount": 964, "currency": "CZK" },
+    "quantity": { "amount": 0.03, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "chupa-chups-the-best-of-lizatko-12g-82292244",
+    "name": "Chupa Chups The Best of lízátko 12g",
+    "description": "Chupa Chups The Best of lízátko 12g",
+    "price": { "amount": 964, "currency": "CZK" },
+    "quantity": { "amount": 0.012, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "jchorn-majoranka-5g-82296744",
+    "name": "J.C.Horn Majoránka 5g",
+    "description": "J.C.Horn Majoránka 5g",
+    "price": { "amount": 964, "currency": "CZK" },
+    "quantity": { "amount": 0.005, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "jchorn-kmin-cely-20g-82296800",
+    "name": "J.C.Horn Kmín celý 20g",
+    "description": "J.C.Horn Kmín celý 20g",
+    "price": { "amount": 964, "currency": "CZK" },
+    "quantity": { "amount": 0.02, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "ceska-farma-dyne-muskatova-82300043",
+    "name": "Česká Farma Dýně muškátová",
+    "description": "Česká Farma Dýně muškátová",
+    "price": { "amount": 771, "currency": "CZK" },
+    "quantity": { "amount": 1, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "billa-snack-s-mlecnym-kremem-s-medem-28g-82301666",
+    "name": "BILLA Snack s mléčným krémem s medem 28g",
+    "description": "BILLA Snack s mléčným krémem s medem 28g",
+    "price": { "amount": 964, "currency": "CZK" },
+    "quantity": { "amount": 0.028, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "jchorn-paprika-gulasova-mleta-20g-82303505",
+    "name": "J.C.Horn Paprika gulášová mletá 20g",
+    "description": "J.C.Horn Paprika gulášová mletá 20g",
+    "price": { "amount": 964, "currency": "CZK" },
+    "quantity": { "amount": 0.02, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "hors-ovocne-lizatko-bez-cukru-10g-82305574",
+    "name": "Hors Ovocné lízátko bez cukru 10g",
+    "description": "Hors Ovocné lízátko bez cukru 10g",
+    "price": { "amount": 964, "currency": "CZK" },
+    "quantity": { "amount": 0.01, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "clever-jogurt-boruvkovy-150g-82309958",
+    "name": "clever Jogurt borůvkový 150g",
+    "description": "clever Jogurt borůvkový 150g",
+    "price": { "amount": 964, "currency": "CZK" },
+    "quantity": { "amount": 0.15, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "dr-oetker-trtinovy-cukr-karamelovy-20g-82313862",
+    "name": "Dr. Oetker Třtinový cukr karamelový 20g",
+    "description": "Dr. Oetker Třtinový cukr karamelový 20g",
+    "price": { "amount": 964, "currency": "CZK" },
+    "quantity": { "amount": 0.02, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "dr-oetker-trtinovy-cukr-citronovy-se-strouhanou-kurou-15g-82322410",
+    "name": "Dr. Oetker Třtinový cukr citrónový se strouhanou kůrou 15g",
+    "description": "Dr. Oetker Třtinový cukr citrónový se strouhanou kůrou 15g",
+    "price": { "amount": 964, "currency": "CZK" },
+    "quantity": { "amount": 0.015, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "clever-pudingovy-dezert-se-slehackou-cokoladovy-200g-82327692",
+    "name": "clever Pudingový dezert se šlehačkou čokoládový 200g",
+    "description": "clever Pudingový dezert se šlehačkou čokoládový 200g",
+    "price": { "amount": 964, "currency": "CZK" },
+    "quantity": { "amount": 0.2, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "clever-pudingovy-dezert-se-slehackou-a-s-vanilkovou-prichuti-200g-82327695",
+    "name": "clever Pudingový dezert se šlehačkou a s vanilkovou příchutí 200g",
+    "description": "clever Pudingový dezert se šlehačkou a s vanilkovou příchutí 200g",
+    "price": { "amount": 964, "currency": "CZK" },
+    "quantity": { "amount": 0.2, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "kobliha-berliner-s-merunkovou-naplni-a-praskovym-posypem-65g-82343377",
+    "name": "Kobliha Berliner s meruňkovou náplní a práškovým posypem 65g",
+    "description": "Kobliha Berliner s meruňkovou náplní a práškovým posypem 65g",
+    "price": { "amount": 964, "currency": "CZK" },
+    "quantity": { "amount": 0.065, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "kunin-pohar-jahoda-150g-82249698",
+    "name": "KUNÍN Pohár Jahoda 150G",
+    "description": "KUNÍN Pohár Jahoda 150G",
+    "price": { "amount": 990, "currency": "CZK" },
+    "quantity": { "amount": 0.15, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "kunin-pohar-cokolada-150g-82249700",
+    "name": "KUNIN Pohár čokoláda 150G",
+    "description": "KUNIN Pohár čokoláda 150G",
+    "price": { "amount": 990, "currency": "CZK" },
+    "quantity": { "amount": 0.15, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "orion-zlaty-mesec-70g-82305468",
+    "name": "ORION Zlatý měšec 70g",
+    "description": "ORION Zlatý měšec 70g",
+    "price": { "amount": 990, "currency": "CZK" },
+    "quantity": { "amount": 0.07, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "salonky-stribrne-rumpunc-450g-82320697",
+    "name": "Salonky stříbrné - rum.-punč. 450g",
+    "description": "Salonky stříbrné - rum.-punč. 450g",
+    "price": { "amount": 990, "currency": "CZK" },
+    "quantity": { "amount": 0.45, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "marilky-duo-mlecnocokoladove-33g-82327763",
+    "name": "Marilky duo mléčno-čokoládové 33g",
+    "description": "Marilky duo mléčno-čokoládové 33g",
+    "price": { "amount": 990, "currency": "CZK" },
+    "quantity": { "amount": 0.033, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "chocoland-vanocni-mix-v-sitce-100g-82333606",
+    "name": "Chocoland Vánoční mix v síťce 100g",
+    "description": "Chocoland Vánoční mix v síťce 100g",
+    "price": { "amount": 990, "currency": "CZK" },
+    "quantity": { "amount": 0.1, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "orion-mikulas-85g-82333916",
+    "name": "ORION Mikuláš 85g",
+    "description": "ORION Mikuláš 85g",
+    "price": { "amount": 990, "currency": "CZK" },
+    "quantity": { "amount": 0.085, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "kitkat-santa-29g-82333922",
+    "name": "KITKAT Santa 29g",
+    "description": "KITKAT Santa 29g",
+    "price": { "amount": 990, "currency": "CZK" },
+    "quantity": { "amount": 0.029, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "kitkat-santa-duta-figurka-85g-82333927",
+    "name": "KITKAT Santa dutá figurka 85g ",
+    "description": "KITKAT Santa dutá figurka 85g ",
+    "price": { "amount": 990, "currency": "CZK" },
+    "quantity": { "amount": 0.085, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "kunin-pohar-s-boruvkovou-prichuti-150g-82336339",
+    "name": "Kunín Pohár s borůvkovou příchutí 150g",
+    "description": "Kunín Pohár s borůvkovou příchutí 150g",
+    "price": { "amount": 990, "currency": "CZK" },
+    "quantity": { "amount": 0.15, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "kunin-pohar-merunka-150g-82336340",
+    "name": "Kunín Pohár meruňka 150g",
+    "description": "Kunín Pohár meruňka 150g",
+    "price": { "amount": 990, "currency": "CZK" },
+    "quantity": { "amount": 0.15, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "marilky-cokoladove-33g-82338910",
+    "name": "Marilky čokoládové 33g",
+    "description": "Marilky čokoládové 33g",
+    "price": { "amount": 990, "currency": "CZK" },
+    "quantity": { "amount": 0.033, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "zlati-cokoladovi-medvidci-100g-82343614",
+    "name": "Zlatí čokoládoví medvídci 100g",
+    "description": "Zlatí čokoládoví medvídci 100g",
+    "price": { "amount": 990, "currency": "CZK" },
+    "quantity": { "amount": 0.1, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "milka-mlecna-cokolada-z-alpskeho-mleka-90g-82343889",
+    "name": "Milka Mléčná čokoláda z alpského mléka 90g",
+    "description": "Milka Mléčná čokoláda z alpského mléka 90g",
+    "price": { "amount": 990, "currency": "CZK" },
+    "quantity": { "amount": 0.09, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "jojo-xmas-party-mix-150g-82351080",
+    "name": "JOJO XMAS party mix 150g",
+    "description": "JOJO XMAS party mix 150g",
+    "price": { "amount": 990, "currency": "CZK" },
+    "quantity": { "amount": 0.15, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "zott-monte-snack-29g-82301313",
+    "name": "Zott Monte Snack 29g",
+    "description": "Zott Monte Snack 29g",
+    "price": { "amount": 1060, "currency": "CZK" },
+    "quantity": { "amount": 0.029, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "zott-monte-snack-white-29g-82332851",
+    "name": "Zott Monte Snack White 29g",
+    "description": "Zott Monte Snack White 29g",
+    "price": { "amount": 1060, "currency": "CZK" },
+    "quantity": { "amount": 0.029, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "sedita-original-oplatky-s-kakaovou-kremovou-naplni-50g-82163592",
+    "name": "Sedita Original oplatky s kakaovou krémovou náplní 50g",
+    "description": "Sedita Original oplatky s kakaovou krémovou náplní 50g",
+    "price": { "amount": 1062, "currency": "CZK" },
+    "quantity": { "amount": 0.05, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "sedita-kavenky-original-50g-82219404",
+    "name": "Sedita Kávenky Original 50g",
+    "description": "Sedita Kávenky Original 50g",
+    "price": { "amount": 1062, "currency": "CZK" },
+    "quantity": { "amount": 0.05, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "sedita-vesna-oplatky-s-mlecnou-kremovou-naplni-50g-82251769",
+    "name": "Sedita Vesna Oplatky s mléčnou krémovou náplní 50g",
+    "description": "Sedita Vesna Oplatky s mléčnou krémovou náplní 50g",
+    "price": { "amount": 1062, "currency": "CZK" },
+    "quantity": { "amount": 0.05, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "vi-huong-instantni-nudlova-polevka-s-kureci-prichuti-70g-82260338",
+    "name": "Vi Huong Instantní nudlová polévka s kuřecí příchutí 70g",
+    "description": "Vi Huong Instantní nudlová polévka s kuřecí příchutí 70g",
+    "price": { "amount": 1062, "currency": "CZK" },
+    "quantity": { "amount": 0.065, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "sedita-kavenky-arabica-50g-82278057",
+    "name": "Sedita Kávenky Arabica 50g",
+    "description": "Sedita Kávenky Arabica 50g",
+    "price": { "amount": 1062, "currency": "CZK" },
+    "quantity": { "amount": 0.05, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "dr-oetker-kyprici-prasek-do-peciva-s-vinnym-kamenem-15g-82298688",
+    "name": "Dr. Oetker Kypřicí prášek do pečiva s vinným kamenem 15g",
+    "description": "Dr. Oetker Kypřicí prášek do pečiva s vinným kamenem 15g",
+    "price": { "amount": 1062, "currency": "CZK" },
+    "quantity": { "amount": 0.015, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "clever-kompletni-krmivo-pro-kocky-s-drubezim-100g-82300037",
+    "name": "clever Kompletní krmivo pro kočky s drůbežím 100g",
+    "description": "clever Kompletní krmivo pro kočky s drůbežím 100g",
+    "price": { "amount": 1062, "currency": "CZK" },
+    "quantity": { "amount": 0.1, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "clever-kompletni-krmivo-pro-kocky-s-hovezim-100g-82300038",
+    "name": "clever Kompletní krmivo pro kočky s hovězím 100g",
+    "description": "clever Kompletní krmivo pro kočky s hovězím 100g",
+    "price": { "amount": 1062, "currency": "CZK" },
+    "quantity": { "amount": 0.1, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "clever-kompletni-krmivo-pro-kocky-s-lososem-100g-82300039",
+    "name": "clever Kompletní krmivo pro kočky s lososem 100g",
+    "description": "clever Kompletní krmivo pro kočky s lososem 100g",
+    "price": { "amount": 1062, "currency": "CZK" },
+    "quantity": { "amount": 0.1, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "billa-snack-s-mlecnym-kremem-v-kakaove-poleve-30g-82301667",
+    "name": "BILLA Snack s mléčným krémem v kakaové polevě 30g",
+    "description": "BILLA Snack s mléčným krémem v kakaové polevě 30g",
+    "price": { "amount": 1062, "currency": "CZK" },
+    "quantity": { "amount": 0.03, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "dr-oetker-trtinovy-cukr-s-rumovou-prichuti-20g-82313863",
+    "name": "Dr. Oetker Třtinový cukr s rumovou příchutí 20g",
+    "description": "Dr. Oetker Třtinový cukr s rumovou příchutí 20g",
+    "price": { "amount": 1062, "currency": "CZK" },
+    "quantity": { "amount": 0.021, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "billa-termix-kakaovy-90g-82320819",
+    "name": "BILLA Termix kakaový 90g",
+    "description": "BILLA Termix kakaový 90g",
+    "price": { "amount": 1062, "currency": "CZK" },
+    "quantity": { "amount": 0.09, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "billa-termix-vanilkovy-90g-82320820",
+    "name": "BILLA Termix vanilkový 90g",
+    "description": "BILLA Termix vanilkový 90g",
+    "price": { "amount": 1062, "currency": "CZK" },
+    "quantity": { "amount": 0.09, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "zitny-rohlik-s-posypem-82322229",
+    "name": "Žitný rohlík s posypem",
+    "description": "Žitný rohlík s posypem",
+    "price": { "amount": 1062, "currency": "CZK" },
+    "quantity": { "amount": 0.07, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "celita-proteinovy-suk-s-vanilkovou-prichuti-45g-82325470",
+    "name": "Celita Proteinový suk s vanilkovou příchutí 45g",
+    "description": "Celita Proteinový suk s vanilkovou příchutí 45g",
+    "price": { "amount": 1062, "currency": "CZK" },
+    "quantity": { "amount": 0.045, "unit": "kg" }
+  },
+  {
+    "store": "billa",
+    "id": "loupak-82326508",
+    "name": "Loupák",
+    "description": "Loupák",
+    "price": { "amount": 1062, "currency": "CZK" },
+    "quantity": { "amount": 0.06, "unit": "kg" }
+  }
+]

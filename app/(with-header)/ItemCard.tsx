@@ -3,11 +3,13 @@ import { Card, Image, Group, Text } from "@mantine/core";
 
 export const ItemCard = ({ item }: { item: Item }) => (
   <Card shadow="sm" padding="lg" radius="md" withBorder>
-    <Card.Section>
+    <Card.Section display="flex" className="justify-center">
       <Image
-        src="https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/images/bg-8.png"
-        height={160}
-        alt="Norway"
+        src={item.imageUrl}
+        h={160}
+        w="auto"
+        fit="contain"
+        alt={item.name}
       />
     </Card.Section>
 
